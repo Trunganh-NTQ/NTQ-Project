@@ -24,7 +24,7 @@ gem 'bootstrap-datepicker-rails'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use Puma as the app server
-gem 'puma', '~> 3.7'
+gem 'puma', '~> 4.3'
 # use Bootstrap
 gem 'bootstrap-sass','3.3.7'
 gem 'popper_js'
